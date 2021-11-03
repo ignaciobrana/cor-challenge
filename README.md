@@ -2,6 +2,8 @@
 
 This algorithm answered the challenge using NodeJS and typescript.
 
+Into the file "src/index.ts" is the algorithm.
+
 ----
 Given a list of words, determine whether the words can be chained to form a circle. A word X
 can be placed in front of another word Y in a circle if the last character of X is the same as
